@@ -27,4 +27,3 @@ It processes live video streams to detect faces and weapons and triggers alerts 
 
 ---
 
-## 📂 Project Structure
